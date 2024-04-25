@@ -1,3 +1,7 @@
+//tp1
+//Candela Hermida
+//comision 5
+
 PImage Kiwi;
 void setup(){
   size(800, 400);
