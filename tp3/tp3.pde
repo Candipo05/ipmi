@@ -1,3 +1,8 @@
+//https://youtu.be/YCo7pkigLtk?si=jb0WdEXn_HFIu2tI
+//Candela Hermida
+//119054/7
+
+
 int posX, posY;
 color white = (255);
 color black = (0);
